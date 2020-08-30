@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Roboto&display=swap');
+*{
+    font-family: Open Sans;
+}
+.container{
+    margin-top: 20px;
+}
+
+.col-sm-4{
+    border: 0.5px solid black;
+   
+}
+.col-sm-4{
+    cursor: pointer;
+}
+.col-sm-4:hover{
+    background-color: black;
+    z-index: 2;
+}
+.col-sm-4:hover >.card-img{
+  opacity: 0.3;
+}
+.col-sm-4:hover >.but{
+    visibility: visible;
+  }
+.card-img{
+    border-radius: 50px;
+    align-self:center;
+    justify-self: center;
+}
+.row{
+justify-content: space-between;
+padding:30px;
+}
+.but{
+    z-index: 2;
+  
+    align-self: center;
+    top: 10px;
+    visibility: hidden;
+}
+.spinner{
+   font-size:25px;
+ 
+    align-items: center;
+    padding:200px;
+    text-align: center;
+    display: block;
+}
