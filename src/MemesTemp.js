@@ -54,7 +54,7 @@ render(){
     if(error)
     return <div>Erreur </div>
     else if (!isLoading)
-    return <div className="spinner">
+    return <div className="container spinner">
         <Spinner  size="lg" animation="border" variant="primary" />
                         <span>Loading...</span>
                         

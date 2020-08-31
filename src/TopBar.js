@@ -8,8 +8,8 @@ function TopBar({ location }) {
   return (
     <Navbar expand="lg" variant="dark">
       <Navbar.Brand href="/">Memes Generator App</Navbar.Brand>
-      <Navbar.Toggle aria-controls="basic-navbar-nav" />
-      <Navbar.Collapse id="basic-navbar-nav">
+      <Navbar.Toggle  aria-controls="col" />
+      <Navbar.Collapse id="col">
         <Nav className="mr-auto">
           <NavLink to="/home" className="nav-link" activeClassName="nav-link active" >
             Home
