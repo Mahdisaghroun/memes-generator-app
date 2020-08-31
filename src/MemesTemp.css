@@ -24,7 +24,7 @@
     visibility: visible;
   }
 .card-img{
-    border-radius: 50px;
+    border-radius: 20px;
     align-self:center;
     justify-self: center;
 }
@@ -41,9 +41,9 @@ padding:30px;
 }
 .spinner{
    font-size:25px;
- 
+  
     align-items: center;
-    padding:200px;
+    margin-top: 20%;
     text-align: center;
     display: block;
 }
