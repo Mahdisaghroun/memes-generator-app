@@ -35,7 +35,7 @@ function HomePage() {
     if (data) {
       const mimeType = data.split(";")[0];
       const extension = data.split(";")[0].split("/")[1];
-      download(data, `image.${extension}`, mimeType);
+      download(data, `${url}.${extension}`, mimeType);
     }
   };
   

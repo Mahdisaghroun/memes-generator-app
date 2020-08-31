@@ -1,0 +1,14 @@
+.col-md-3{
+    cursor: pointer;
+    display: block;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+.contact{
+    padding:30px;
+}
+span{
+  padding: 20px;
+ justify-self: center;
+}
