@@ -1,7 +1,18 @@
 # Memes Generator App
+
 ![Present App](https://github.com/Mahdisaghroun/memes-generator-app/blob/master/image/1.png?raw=true)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Application Structure
+
+![Application Structure](https://github.com/Mahdisaghroun/memes-generator-app/blob/master/image/2.png?raw=true)
+
+## Application Components
+
+![Application Components](https://github.com/Mahdisaghroun/memes-generator-app/blob/master/image/3.png?raw=true)
+
+## How To Generate meme
+
+![How To Generate meme](https://github.com/Mahdisaghroun/memes-generator-app/blob/master/image/4.png?raw=true)
 
 ## Available Scripts
 
