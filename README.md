@@ -14,6 +14,9 @@
 
 ![How To Generate meme](https://github.com/Mahdisaghroun/memes-generator-app/blob/master/image/4.png?raw=true)
 
+## Buy me a coffee 
+
+https://www.buymeacoffee.com/mahdisaghroun
 ## Available Scripts
 
 In the project directory, you can run:
